@@ -1,0 +1,29 @@
+ 1.Big = use to big text.
+2.small= use to small text.
+
+3. subscript =content base la show karte.
+4. superscript =content power la show karte.
+
+5.pre = jasech ts content show karate.
+
+6.header = use to top section of page .
+
+7.<main> = contain the main content of webpage.
+
+8.<section>= divide the page in blocks.
+
+9. <article> =	Defines independent content like a blog post, news article, or forum post.
+
+10.<aside>	=Defines side content, like a sidebar or note related to the main content.
+
+11.<footer>=Defines the footer of a page or section.
+
+12.<br>=	Inserts a line break  within text.
+
+13.<hr>=	Inserts a horizontal line to separate content visually.
+
+14.<a>=	Creates a hyperlink to another page or resource using the href attribute.
+
+15.<img>= use to deisplay img.
+
+file2.txt
